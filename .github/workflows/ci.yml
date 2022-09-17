@@ -13,7 +13,7 @@ permissions:
   contents: read
 
 jobs:
-  name: build
+ build:
 
   runs-on: ubuntu-latest
 
